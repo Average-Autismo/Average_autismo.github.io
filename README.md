@@ -19,7 +19,7 @@
       src="images/rateririorouast.jpg"
       alt="imagine an arabian terrorist here"
     />
-    <p class="username">@geraldisnotharold</p>
+    <p class="username">@baroldisnotharold</p>
     <p>a baby? dam.</p>
   </body>
 </html>
